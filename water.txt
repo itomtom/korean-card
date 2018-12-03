@@ -1,5 +1,4 @@
-Do you/they have water?
-
+Is there water?/There is water
 물 있어요 1
 몰 있어요 0
 몰 이어요 0
