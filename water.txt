@@ -1,4 +1,4 @@
 ﻿Is there water?/There is water
 몰 있어요 0
-몰 이어요 0
 물 있어요 1
+몰 이어요 0
