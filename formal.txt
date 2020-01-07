@@ -1,0 +1,4 @@
+﻿Formal/Polite Speech
+존댙말 0
+존댓말 1
+존대말 0
